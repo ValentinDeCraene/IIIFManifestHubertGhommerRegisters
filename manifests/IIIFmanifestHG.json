@@ -1,0 +1,147 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://ValentinDeCraene.github.io/IIIFmanifesTestFinal/manifests/IIIFmanifestHG.json",
+  "@type" : "sc:Manifest",
+  "label" : "Registers of Hubert Ghommer, baillif of Lille (1429-1441).",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Register of Hubert Ghommer, baillif of Lille between 1429 and 1441. This manuscript is the copy made by the Chambre des Comptes of Lille.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Archives départementales du Nord.",
+  "sequences" : [ {
+    "@id" : "http://2af5cf11-a363-4c71-ae88-2d0035d0dcea",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://bec1ec67-459d-4513-bed1-16a08ed248e9",
+      "@type" : "sc:Canvas",
+      "label" : "B 6234_1",
+      "height" : 991,
+      "width" : 817,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f2e83eeb-43af-40ad-9d97-62b5afafd79f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/b-6234-1_202202/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/b-6234-1_202202",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 991,
+          "width" : 817
+        },
+        "on" : "http://bec1ec67-459d-4513-bed1-16a08ed248e9"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://valentindecraene.github.io/B6234-1/annotations/db706083ba475709a7f7eede9d5444a9.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations B6234_1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b2d9fbf0-eb78-4500-b386-e7cdc713fbfe",
+      "@type" : "sc:Canvas",
+      "label" : "B62341_2",
+      "height" : 710,
+      "width" : 546,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a6da993c-eb38-41ee-88cc-54cf4fc7fc22",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/b-6234-2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/b-6234-2",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 710,
+          "width" : 546
+        },
+        "on" : "http://b2d9fbf0-eb78-4500-b386-e7cdc713fbfe"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://valentindecraene.github.io/B6234-2/annotations/annotationsB62342.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotationsB6234_2"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://cbe17ead-8399-4b31-9843-96b1df3456cc",
+      "@type" : "sc:Canvas",
+      "label" : "B6239",
+      "height" : 973,
+      "width" : 753,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f0adcaf5-9eda-4ff1-a279-6abef742a97d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/b-6239/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/b-6239",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 973,
+          "width" : 753
+        },
+        "on" : "http://cbe17ead-8399-4b31-9843-96b1df3456cc"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://valentindecraene.github.io/B6239/annotations/annotationsB6239.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "annotationsB6239"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://fb01fdc0-6970-4c80-83d6-998930bace35",
+      "@type" : "sc:Canvas",
+      "label" : "B6243",
+      "height" : 2048,
+      "width" : 1152,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d6e9116d-d4b1-4be9-ae60-8fa55744dcf7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/b-6243_202202/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/b-6243_202202",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2048,
+          "width" : 1152
+        },
+        "on" : "http://fb01fdc0-6970-4c80-83d6-998930bace35"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://valentindecraene.github.io/B6243/annotations/annotationsB6243.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations B6243"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
