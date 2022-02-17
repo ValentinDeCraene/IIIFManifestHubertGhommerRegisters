@@ -1,0 +1,13 @@
+{
+  "id" : "https://ValentinDeCraene.github.io/IIIFmanifesTestFinal/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in ValentinDeCraene/IIIFmanifesTestFinal project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ValentinDeCraene.github.io/IIIFmanifesTestFinal/manifests/IIIFmanifestHG.json",
+    "label" : "Registers of Hubert Ghommer, baillif of Lille (1429-1441)."
+  } ]
+}
