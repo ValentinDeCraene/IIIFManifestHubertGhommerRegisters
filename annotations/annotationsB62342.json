@@ -1,0 +1,256 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Marginalia",
+      "@type" : "oa:Tag",
+      "chars" : "Marginalia"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Corrections",
+      "@type" : "oa:Tag",
+      "chars" : "Corrections"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Another marginal note that is quite difficult to read. It is correction of the corrections concerning the amount of the taxes that the count can raise over this sale.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Another marginal note that is quite difficult to read. It is correction of the corrections concerning the amount of the taxes that the count can raise over this sale.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T09:01:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644483669899",
+    "dcterms:modified" : "2022-02-10T09:01:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6234-2/manifests/B6234-2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=0,315,106,63"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M-0.28625,314.9483h53.21248v0h53.21248v31.44136v31.44136h-53.21248h-53.21248v-31.44136z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f934462d-ddce-4961-a5f1-c67f3c8f0cdc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://17287bca-248e-4a49-b0f5-882d27099ae7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Income",
+      "@type" : "oa:Tag",
+      "chars" : "Income"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Taxes",
+      "@type" : "oa:Tag",
+      "chars" : "Taxes"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Subsection",
+      "@type" : "oa:Tag",
+      "chars" : "Subsection"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "This is another subsection of the financial income section of the register. In the context of the XVth century county of Flanders, it refers to an ancient taxe that the count can raise when a vassal sells his fief. However it is never used in Flanders, for the count already get a tenth out of the sale of a piece of land .\nTranscription : \"De quins et de pari&eacute;s appartenant &agrave; monseigneur seul et pour le tout, pour ce present compte rien receu\"\nSee the definition of \"quin(t)s here\":<a href=\"http://zeus.atilf.fr/scripts/dmfX.exe?LEM=quint;XMODE=STELLa;FERMER;;AFFICHAGE=0;MENU=menu_dmf;;ISIS=isis_dmf2020.txt;MENU=menu_recherche_dictionnaire;OUVRIR_MENU=1;ONGLET=dmf2020;OO1=2;OO2=1;s=s0a382fc8;LANGUE=FR;\" target=\"_blank\" rel=\"noopener\">http://zeus.atilf.fr/scripts/dmfX.exe?LEM=quint;XMODE=STELLa;FERMER;;AFFICHAGE=0;MENU=menu_dmf;;ISIS=isis_dmf2020.txt;MENU=menu_recherche_dictionnaire;OUVRIR_MENU=1;ONGLET=dmf2020;OO1=2;OO2=1;s=s0a382fc8;LANGUE=FR;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This is another subsection of the financial income section of the register. In the context of the XVth century county of Flanders, it refers to an ancient taxe that the count can raise when a vassal sells his fief. However it is never used in Flanders, for the count already get a tenth out of the sale of a piece of land .</p>\n<p>Transcription : \"De quins et de pari&eacute;s appartenant &agrave; monseigneur seul et pour le tout, pour ce present compte rien receu\"</p>\n<p>See the definition of \"quin(t)s here\":<a href=\"http://zeus.atilf.fr/scripts/dmfX.exe?LEM=quint;XMODE=STELLa;FERMER;;AFFICHAGE=0;MENU=menu_dmf;;ISIS=isis_dmf2020.txt;MENU=menu_recherche_dictionnaire;OUVRIR_MENU=1;ONGLET=dmf2020;OO1=2;OO2=1;s=s0a382fc8;LANGUE=FR;\" target=\"_blank\" rel=\"noopener\">http://zeus.atilf.fr/scripts/dmfX.exe?LEM=quint;XMODE=STELLa;FERMER;;AFFICHAGE=0;MENU=menu_dmf;;ISIS=isis_dmf2020.txt;MENU=menu_recherche_dictionnaire;OUVRIR_MENU=1;ONGLET=dmf2020;OO1=2;OO2=1;s=s0a382fc8;LANGUE=FR;</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T09:11:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644484293399",
+    "dcterms:modified" : "2022-02-10T09:11:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6234-2/manifests/B6234-2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=65,478,458,61"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M65.07314,477.84938h228.81281v0h228.81281v30.34706v30.34706h-228.81281h-228.81281v-30.34706z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1072ebc9-1a88-4795-9838-3aa517d9f6c0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://17287bca-248e-4a49-b0f5-882d27099ae7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The corrections made the reporters at the Chambre des Comptes deal with the name and role of the seller : it \"maistre Jehan de Fremault, eschevin et chanoine de Saint Pierre de Lille\" and not Lotard Fremault.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The corrections made the reporters at the Chambre des Comptes deal with the name and role of the seller : it \"maistre Jehan de Fremault, eschevin et chanoine de Saint Pierre de Lille\" and not Lotard Fremault.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T08:43:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644482608931",
+    "dcterms:modified" : "2022-02-10T09:01:46",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6234-2/manifests/B6234-2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=12,33,534,108"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M12.34791,33.16674h266.82605v0h266.82605v54.22264v54.22264h-266.82605h-266.82605v-54.22264z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_c8706833-156a-437d-be66-9a81431bc673\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.96889\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://17287bca-248e-4a49-b0f5-882d27099ae7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Income",
+      "@type" : "oa:Tag",
+      "chars" : "Income"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Taxe",
+      "@type" : "oa:Tag",
+      "chars" : "Taxe"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Justice",
+      "@type" : "oa:Tag",
+      "chars" : "Justice"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "This next subsection, that is also empty, records the taxes that the baillif can raise over the litigant that misuse their right to call for the count's justice.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This next subsection, that is also empty, records the taxes that the baillif can raise over the litigant that misuse their right to call for the count's justice.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-10T09:13:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644484425584",
+    "dcterms:modified" : "2022-02-10T09:13:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6234-2/manifests/B6234-2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=59,544,469,97"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M59.10425,543.50722h234.28429v0h234.28429v48.25375v48.25375h-234.28429h-234.28429v-48.25375z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_bc81fa5e-9185-4c60-959d-ac26878bca06\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://17287bca-248e-4a49-b0f5-882d27099ae7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "In addition, the corrections provides more details concerning the way this fief is acquired: it was initially a reward given by the count of Flanders to Jehan de Fremault. Indeed the scribe refers to letter made the count, in which this reward is mentionned (\"seloncq et par la manire plus adplain contenue en certaines lettres patentes de mondit seigneur\") . It could interesting to find the letter that is mentionned and to provide a link, however it is not to be found.\nThe later sale this land to Lotard de Fremault.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>In addition, the corrections provides more details concerning the way this fief is acquired: it was initially a reward given by the count of Flanders to Jehan de Fremault. Indeed the scribe refers to letter made the count, in which this reward is mentionned (\"seloncq et par la manire plus adplain contenue en certaines lettres patentes de mondit seigneur\") . It could interesting to find the letter that is mentionned and to provide a link, however it is not to be found.</p>\n<p>The later sale this land to Lotard de Fremault.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Income",
+      "@type" : "oa:Tag",
+      "chars" : "Income"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sale",
+      "@type" : "oa:Tag",
+      "chars" : "Sale"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Corrections",
+      "@type" : "oa:Tag",
+      "chars" : "Corrections"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-10T08:46:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644482816465",
+    "dcterms:modified" : "2022-02-10T08:58:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6234-2/manifests/B6234-2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=15,240,519,74"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M15.33235,240.08841h259.65209v0h259.65209v36.81337v36.81337h-259.65209h-259.65209v-36.81337z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_486a5da1-7ac8-4616-9837-9ac459c64b61\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"5.37201\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://17287bca-248e-4a49-b0f5-882d27099ae7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "This is the third item of the financial income of the bailliage from the first register. It is quite interesting because it exemplifies the control and corrections made by the Chambre des Comptes over the actions of the baillif. Indeed, the scribe who was in charge of listing the sales and purchases made a mistake that was then corrected by the officiers in charge of the reporting of the registers.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This is the third item of the financial income of the bailliage from the first register. It is quite interesting because it exemplifies the control and corrections made by the Chambre des Comptes over the actions of the baillif. Indeed, the scribe who was in charge of listing the sales and purchases made a mistake that was then corrected by the officiers in charge of the reporting of the registers.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Corrections",
+      "@type" : "oa:Tag",
+      "chars" : "Corrections"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Income",
+      "@type" : "oa:Tag",
+      "chars" : "Income"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92516776",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-10T08:38:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1644482333837",
+    "dcterms:modified" : "2022-02-10T08:48:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ValentinDeCraene.github.io/B6234-2/manifests/B6234-2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=84,30,457,407"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M83.97464,30.18229h228.52564v0h228.52564v203.445v203.445h-228.52564h-228.52564v-203.445z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_81813d60-6143-45c6-920e-ea4f173b1d96\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.37201\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://17287bca-248e-4a49-b0f5-882d27099ae7"
+    } ]
+  } ],
+  "@id" : "https://ValentinDeCraene.github.io/IIIFmanifesTestFinal/annotations/annotationsB62342.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
